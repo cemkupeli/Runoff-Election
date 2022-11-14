@@ -10,4 +10,4 @@ Purpose: Given an input csv file where each entry represents a ballot with ranki
 
 ## Summary
 
-This is a script I wrote using Python in May 2021. It accepts a csv where each entry represents a ballot (refer to sampleRunoff.csv for exact format), and other relevant information as command-line arguments, and outputs the winner of the runoff election.
+This is a script I wrote using Python in May 2021. It accepts a csv file where each entry represents a ballot (refer to sampleRunoff.csv for exact format) along with other relevant information as command-line arguments, and outputs the winner of the runoff election.
